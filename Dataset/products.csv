@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,stock_quantity,supplier
+1,Football,Sports,Samsung,36248,145,Global Distributors
+2,T-Shirt,Fashion,Lenovo,71682,64,Metro Wholesale
+3,Mixer,Home Appliances,Samsung,12480,131,Global Distributors
+4,Magazine,Books,Samsung,73763,121,Metro Wholesale
+5,Iron,Home Appliances,LG,77436,162,ABC Traders
+6,Jacket,Fashion,Adidas,36621,99,Global Distributors
+7,Rice,Grocery,Apple,49997,69,Retail Hub
+8,Coffee,Grocery,Nike,5895,393,Prime Suppliers
+9,Novel,Books,Prestige,10528,302,Retail Hub
+10,Dumbbell,Sports,Adidas,75874,118,ABC Traders
+11,Smartphone,Electronics,Nike,10658,457,Global Distributors
+12,Headphones,Electronics,Nike,59629,345,Retail Hub
+13,Shoes,Fashion,Adidas,27660,363,Retail Hub
+14,Football,Sports,Puma,22631,293,Global Distributors
+15,Jacket,Fashion,Prestige,35582,493,Metro Wholesale
+16,Shoes,Fashion,Samsung,30221,440,ABC Traders
+17,Tea,Grocery,Nike,8875,128,Metro Wholesale
+18,Tennis Racket,Sports,HP,65635,222,Prime Suppliers
+19,Shoes,Fashion,Dell,32525,401,Metro Wholesale
+20,Notebook,Books,Boat,76822,239,Metro Wholesale
+21,Fan,Home Appliances,HP,18331,280,Prime Suppliers
+22,Laptop,Electronics,Apple,20233,341,Global Distributors
+23,Yoga Mat,Sports,Puma,8526,217,Prime Suppliers
+24,Story Book,Books,Sony,33153,303,ABC Traders
+25,Football,Sports,Lenovo,70581,404,Retail Hub
+26,Tennis Racket,Sports,Apple,38669,242,Global Distributors
+27,Mixer,Home Appliances,Boat,34722,276,Global Distributors
+28,Novel,Books,Lenovo,39317,450,Metro Wholesale
+29,Dictionary,Books,Dell,49209,410,Global Distributors
+30,Magazine,Books,Samsung,78704,185,Prime Suppliers
+31,Laptop,Electronics,Adidas,40506,142,ABC Traders
+32,Watch,Fashion,Apple,11426,394,Prime Suppliers
+33,Smartwatch,Electronics,Dell,17028,357,Prime Suppliers
+34,Dictionary,Books,Nike,69363,466,Metro Wholesale
+35,Iron,Home Appliances,Sony,26565,385,Retail Hub
+36,Fan,Home Appliances,LG,68039,251,ABC Traders
+37,Jeans,Fashion,Apple,44513,30,Metro Wholesale
+38,Dictionary,Books,Puma,29064,23,ABC Traders
+39,Football,Sports,HP,9034,483,ABC Traders
+40,Rice,Grocery,Sony,31395,162,Prime Suppliers
+41,Watch,Fashion,Dell,75047,315,Prime Suppliers
+42,Jacket,Fashion,Prestige,25157,68,ABC Traders
+43,Yoga Mat,Sports,Adidas,55719,230,Prime Suppliers
+44,Football,Sports,Lenovo,13099,51,Prime Suppliers
+45,Tennis Racket,Sports,Apple,32791,118,Global Distributors
+46,Story Book,Books,Dell,55496,113,Retail Hub
+47,Iron,Home Appliances,Apple,58282,433,Metro Wholesale
+48,Laptop,Electronics,Lenovo,71055,448,ABC Traders
+49,Smartphone,Electronics,Dell,53469,268,Prime Suppliers
+50,Jacket,Fashion,Samsung,21779,214,ABC Traders
+51,Fan,Home Appliances,LG,37588,236,Metro Wholesale
+52,Yoga Mat,Sports,Dell,25090,171,Global Distributors
+53,Smartwatch,Electronics,Boat,71266,51,Retail Hub
+54,Laptop,Electronics,Puma,62693,277,Metro Wholesale
+55,T-Shirt,Fashion,Sony,10700,455,Global Distributors
+56,Smartwatch,Electronics,Apple,31028,226,ABC Traders
+57,Dictionary,Books,Puma,78124,40,Metro Wholesale
+58,Headphones,Electronics,Lenovo,76703,309,Metro Wholesale
+59,Oil,Grocery,HP,41380,142,Retail Hub
+60,Iron,Home Appliances,Lenovo,39521,254,Retail Hub
+61,Laptop,Electronics,LG,73992,71,ABC Traders
+62,Dictionary,Books,Sony,34960,87,Retail Hub
+63,Smartphone,Electronics,Adidas,37553,100,Prime Suppliers
+64,Notebook,Books,Puma,69529,24,Metro Wholesale
+65,Rice,Grocery,Dell,34864,79,ABC Traders
+66,Dumbbell,Sports,Dell,35897,164,Metro Wholesale
+67,Shoes,Fashion,HP,34800,278,Prime Suppliers
+68,Rice,Grocery,Apple,55718,444,Retail Hub
+69,Laptop,Electronics,Adidas,17346,346,Retail Hub
+70,Jacket,Fashion,Sony,56257,307,ABC Traders
+71,Laptop,Electronics,Boat,19736,299,ABC Traders
+72,Coffee,Grocery,Sony,19610,240,Global Distributors
+73,Tablet,Electronics,Adidas,5429,480,Retail Hub
+74,Jeans,Fashion,Lenovo,13673,201,Metro Wholesale
+75,Vacuum Cleaner,Home Appliances,Boat,20457,493,Global Distributors
+76,Jeans,Fashion,Prestige,3448,111,Retail Hub
+77,Iron,Home Appliances,Nike,21066,423,ABC Traders
+78,Mixer,Home Appliances,LG,29354,122,Prime Suppliers
+79,Oil,Grocery,HP,29419,32,Global Distributors
+80,Fan,Home Appliances,Nike,9299,415,Retail Hub
+81,Coffee,Grocery,Prestige,70482,189,ABC Traders
+82,Tablet,Electronics,Dell,76299,155,ABC Traders
+83,Smartwatch,Electronics,Prestige,45509,393,Retail Hub
+84,Vacuum Cleaner,Home Appliances,Sony,15357,217,Metro Wholesale
+85,Shoes,Fashion,Samsung,57354,20,Metro Wholesale
+86,Dictionary,Books,Adidas,56731,55,Retail Hub
+87,Notebook,Books,Lenovo,16534,388,Retail Hub
+88,Notebook,Books,Lenovo,53728,187,Prime Suppliers
+89,Tennis Racket,Sports,Sony,16883,118,Prime Suppliers
+90,Yoga Mat,Sports,Lenovo,23010,335,Metro Wholesale
+91,Tea,Grocery,Sony,253,175,Retail Hub
+92,Jacket,Fashion,Puma,79716,355,Retail Hub
+93,Microwave,Home Appliances,LG,28210,281,Prime Suppliers
+94,Cricket Bat,Sports,Lenovo,11314,165,Metro Wholesale
+95,Dumbbell,Sports,Adidas,12440,439,Global Distributors
+96,Tennis Racket,Sports,HP,26300,95,ABC Traders
+97,Smartphone,Electronics,LG,9745,253,Prime Suppliers
+98,Dumbbell,Sports,HP,50528,273,Prime Suppliers
+99,Jeans,Fashion,Lenovo,926,477,ABC Traders
+100,Iron,Home Appliances,Dell,68089,257,ABC Traders
