@@ -1,19 +1,20 @@
 # 🛍️ Retail Sales Analysis using SQL & Python
 
-A complete **Retail Sales Analysis** project developed using **MySQL, Python (Pandas), and Matplotlib**. This project demonstrates database design, SQL querying, data analysis, and data visualization to extract meaningful business insights from retail sales data.
+A complete **Retail Sales Analysis** project developed using **MySQL, SQL, Python, Pandas, and Matplotlib**.
 
-The project simulates a real-world retail business environment by generating synthetic datasets, storing them in a MySQL database, analyzing sales using SQL, and visualizing key business metrics using Python.
+This project simulates a real-world retail business environment by generating synthetic retail datasets, storing them in a relational MySQL database, performing SQL-based analysis, and creating professional business visualizations and an executive sales dashboard.
 
 ---
 
 ## 📌 Project Objectives
 
-- Design a relational retail database in MySQL.
-- Import and manage retail sales datasets.
+- Design a relational retail database using MySQL.
+- Generate and manage retail sales data.
 - Perform SQL-based business analysis.
-- Analyze customer, product, and sales performance.
-- Generate business insights using Python.
-- Create professional data visualizations.
+- Analyze customer, product, store, and order performance.
+- Calculate important business KPIs.
+- Create data visualizations using Python.
+- Build an Executive Sales Performance Dashboard.
 
 ---
 
@@ -28,7 +29,8 @@ The project simulates a real-world retail business environment by generating syn
 - ✅ Product Performance Analysis
 - ✅ Store Performance Analysis
 - ✅ Python Data Analysis using Pandas
-- ✅ 10 Business Visualizations using Matplotlib
+- ✅ 10+ Business Visualizations
+- ✅ Executive Sales Performance Dashboard
 
 ---
 
@@ -51,211 +53,213 @@ The project simulates a real-world retail business environment by generating syn
 Retail-Sales-Analysis/
 │
 ├── Dataset/
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── stores.csv
+│   ├── orders.csv
+│   └── order_details.csv
+│
 ├── Python/
+│   ├── data_analysis.py
+│   ├── executive_dashboard.py
+│   ├── executive_dashboard_v2.py
+│   ├── generate_dataset.py
+│   ├── visualization.py
+│   └── requirements.txt
+│
 ├── SQL/
+│   ├── 01_create_database.sql
+│   ├── 02_create_tables.sql
+│   ├── 03_import_data.sql
+│   ├── 04_basic_queries.sql
+│   ├── 05_intermediate_queries.sql
+│   └── 06_advanced_queries.sql
+│
 ├── Screenshots/
-├── README.md
-└── requirements.txt
-```
----
-
-# 🗄️ Database Tables
+│
+└── README.md
+🗄️ Database Tables
 
 The project uses five relational tables:
 
-| Table | Description |
-|-------|-------------|
-| customers | Stores customer information |
-| products | Stores product details |
-| stores | Stores store information |
-| orders | Stores order details |
-| order_details | Stores purchased products, quantity, and discount |
+Table	Description
+customers	Stores customer information
+products	Stores product details
+stores	Stores store information
+orders	Stores order information
+order_details	Stores purchased products, quantity, and discount
+📊 SQL Analysis
 
----
+The project contains 75 SQL queries divided into three levels.
 
-# 📊 SQL Analysis
+🔹 Basic Queries — 25
+SELECT statements
+WHERE clause
+ORDER BY
+LIMIT
+DISTINCT
+Aggregate functions
+Filtering records
+🔹 Intermediate Queries — 25
+INNER JOIN
+LEFT JOIN
+GROUP BY
+HAVING
+Subqueries
+Date functions
+String functions
+🔹 Advanced Queries — 25
+Multi-table joins
+Revenue analysis
+Customer analysis
+Product performance
+Store performance
+Sales trends
+Business KPI analysis
+🐍 Python Analysis
 
-The project contains **75 SQL queries** divided into three levels:
+Python and Pandas are used for:
 
-## Basic Queries (25)
+Dataset loading
+Dataset exploration
+Missing value detection
+Revenue calculation
+Business KPI analysis
+Customer analysis
+Product analysis
+Store analysis
+📈 Data Visualizations
 
-- SELECT statements
-- WHERE clause
-- ORDER BY
-- LIMIT
-- DISTINCT
-- Aggregate Functions
-- Filtering Records
+The project generates multiple business visualizations using Matplotlib:
 
-## Intermediate Queries (25)
+📊 Top 10 Products by Revenue
+📊 Revenue by Category
+🥧 Payment Method Distribution
+📊 Order Status Distribution
+📈 Monthly Orders Trend
+📊 Revenue by Store
+📊 Customer Age Distribution
+📊 Top Customers by Spending
+📊 Discount Distribution
+📊 Top Categories by Quantity Sold
+📊 Executive Sales Performance Dashboard
 
-- INNER JOIN
-- LEFT JOIN
-- GROUP BY
-- HAVING
-- Subqueries
-- Date Functions
-- String Functions
+The project includes a professional Executive Sales Performance Dashboard created using Python, Pandas, NumPy, and Matplotlib.
 
-## Advanced Queries (25)
+The dashboard provides a consolidated view of retail business performance.
 
-- Multi-table Joins
-- Revenue Analysis
-- Customer Analysis
-- Product Performance
-- Store Performance
-- Sales Trends
-- Business KPI Analysis
+Dashboard KPIs
+💰 Total Revenue
+🛒 Total Orders
+👥 Total Customers
+📦 Total Products
+🏪 Total Stores
+💵 Average Order Value
+Dashboard Analysis
+📈 Monthly Revenue Trend
+🥧 Revenue by Category
+📊 Top Stores by Revenue
+📊 Top 10 Products by Revenue
+🥧 Payment Methods
+🥧 Order Status
+📊 Revenue by State
+💡 Executive Business Insights
+Dashboard Preview
 
----
+📊 Business Insights
 
-# 🐍 Python Analysis
+The analysis is based on:
 
-The project performs the following analysis using **Pandas**:
+Metric	Count
+Customers	1,000
+Products	100
+Stores	20
+Orders	10,000
+Order Details	15,000
 
-- Dataset Loading
-- Dataset Exploration
-- Missing Value Detection
-- Business KPI Analysis
-- Revenue Calculation
-- Customer Analysis
-- Product Analysis
-- Store Analysis
+The project helps identify:
 
----
-
-# 📈 Data Visualizations
-
-The project generates the following charts:
-
-- 📊 Top 10 Products by Revenue
-- 📊 Revenue by Category
-- 🥧 Payment Method Distribution
-- 📊 Order Status Distribution
-- 📈 Monthly Orders Trend
-- 📊 Revenue by Store
-- 📊 Customer Age Distribution
-- 📊 Top Customers by Spending
-- 📊 Discount Distribution
-- 📊 Top Categories by Quantity Sold
-
----
-
-# ▶️ How to Run the Project
-
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Retail-Sales-Analysis.git
+Top-performing products
+Top-performing stores
+Best-performing categories
+Revenue distribution across states
+Customer spending patterns
+Payment method preferences
+Order status distribution
+Monthly revenue trends
+Overall business performance
+▶️ How to Run the Project
+1️⃣ Clone the Repository
+git clone https://github.com/shreyaa-k26/Retail-Sales-Analysis.git
 cd Retail-Sales-Analysis
-```
 
----
-
-## 2️⃣ Install Python Dependencies
-
-```bash
+2️⃣ Install Python Dependencies
 pip install -r Python/requirements.txt
-```
 
----
+3️⃣ Set Up MySQL Database
 
-## 3️⃣ Import the Dataset into MySQL
+Open MySQL Workbench and execute the SQL files in the following order:
 
-- Open MySQL Workbench.
-- Create the `sales_analysis` database.
-- Execute:
-  - `01_create_database.sql`
-  - `02_create_tables.sql`
-- Import the CSV files into their respective tables.
-- Execute:
-  - `03_import_data.sql`
+01_create_database.sql
+02_create_tables.sql
+03_import_data.sql
 
----
+Import the CSV files into their respective tables when required.
 
-## 4️⃣ Run SQL Queries
+4️⃣ Run SQL Analysis
 
-Execute the SQL scripts in the following order:
+Execute the following scripts:
 
-- `04_basic_queries.sql`
-- `05_intermediate_queries.sql`
-- `06_advanced_queries.sql`
+04_basic_queries.sql
+05_intermediate_queries.sql
+06_advanced_queries.sql
 
----
-
-## 5️⃣ Run Python Analysis
-
-```bash
+5️⃣ Run Python Data Analysis
 python Python/data_analysis.py
-```
 
----
-
-## 6️⃣ Generate Visualizations
-
-```bash
+6️⃣ Generate Visualizations
 python Python/visualization.py
-```
 
-All generated charts will be saved in the **Screenshots** folder.
+7️⃣ Generate Executive Dashboard
+python Python/executive_dashboard_v2.py
 
----
+Generated charts and dashboard images are saved in the Screenshots/ folder.
 
-# 📸 Generated Visualizations
+📁 Dataset
 
-The project generates the following visualizations:
+The project contains synthetic retail data generated using Python.
 
-- Top 10 Products by Revenue
-- Revenue by Category
-- Payment Method Distribution
-- Order Status Distribution
-- Monthly Orders Trend
-- Revenue by Store
-- Customer Age Distribution
-- Top Customers by Spending
-- Discount Distribution
-- Top Categories by Quantity Sold
+Dataset Includes
+1,000 Customers
+100 Products
+20 Stores
+10,000 Orders
+15,000 Order Details
 
----
+The dataset contains information related to customers, products, stores, orders, payment methods, order status, prices, quantities, and discounts.
 
-# 📈 Key Business Insights
-
-- Analyzed sales data of **1,000 customers**, **100 products**, **20 stores**, **10,000 orders**, and **15,000 order details**.
-- Calculated total revenue and average revenue.
-- Identified top-performing products and customers.
-- Compared revenue across product categories and stores.
-- Analyzed order status and payment method distribution.
-- Visualized customer demographics and sales trends.
-
----
-
-# 🔮 Future Enhancements
-
-- Build an interactive Power BI dashboard.
-- Develop a Tableau dashboard for business reporting.
-- Integrate the project with a live MySQL database.
-- Create an interactive web dashboard using Streamlit.
-- Add machine learning models for sales forecasting.
-- Perform customer segmentation using clustering algorithms.
-
----
-
-# 👩‍💻 Author
-
-**Shreya Sanjay Kumbharkar**
+🔮 Future Enhancements
+📊 Interactive Power BI dashboard
+📈 Tableau business dashboard
+🌐 Interactive Streamlit dashboard
+🤖 Sales forecasting using machine learning
+👥 Customer segmentation using clustering
+🗄️ Live MySQL database integration
+📱 Real-time business reporting
+👩‍💻 Author
+Shreya Sanjay Kumbharkar
 
 Final Year B.E. Information Technology Student
 
-### Skills
+Skills:
 
-- SQL
-- MySQL
-- Python
-- Pandas
-- Matplotlib
-- Data Analysis
-- Data Visualization
+SQL
+MySQL
+Python
+Pandas
+Matplotlib
+Data Analysis
+Data Visualization
+⭐ Project
 
----
-
-# ⭐ If you found this project helpful, consider giving it a star on GitHub!
+If you found this project useful, consider giving the repository a ⭐ on GitHub.
