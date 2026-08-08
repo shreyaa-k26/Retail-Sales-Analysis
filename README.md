@@ -155,6 +155,7 @@ Dashboard KPIs
 📦 Total Products
 🏪 Total Stores
 💵 Average Order Value
+
 Dashboard Analysis
 📈 Monthly Revenue Trend
 🥧 Revenue by Category
@@ -164,7 +165,10 @@ Dashboard Analysis
 🥧 Order Status
 📊 Revenue by State
 💡 Executive Business Insights
+
 Dashboard Preview
+
+![Executive Sales Performance Dashboard](Screenshots/dashboard_v2_preview.png)
 
 📊 Business Insights
 
