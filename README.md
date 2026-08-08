@@ -189,7 +189,7 @@ The dashboard provides a consolidated view of retail business performance.
 
 ### Dashboard Preview
 
-![Executive Sales Performance Dashboard](Screenshots/dashboard_v2_preview.png)
+![Executive Sales Performance Dashboard](./Screenshots/dashboard_v2_preview.png)
 
 ---
 
