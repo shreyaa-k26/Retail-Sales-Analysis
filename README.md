@@ -160,7 +160,31 @@ The project generates multiple business visualizations using Matplotlib:
 - 📊 Top Categories by Quantity Sold
 
 ---
+## 📸 Project Visualizations
 
+### Top 10 Products by Revenue
+
+![Top 10 Products](Screenshots/top_10_products.png)
+
+### Revenue by Category
+
+![Revenue by Category](Screenshots/revenue_by_category.png)
+
+### Revenue by Store
+
+![Revenue by Store](Screenshots/revenue_by_store.png)
+
+### Monthly Orders Trend
+
+![Monthly Orders Trend](Screenshots/monthly_orders_trend.png)
+
+### Payment Method Distribution
+
+![Payment Method Distribution](Screenshots/payment_method_distribution.png)
+
+### Order Status Distribution
+
+![Order Status Distribution](Screenshots/order_status_distribution.png)
 ## 📊 Executive Sales Performance Dashboard
 
 The project includes a professional **Executive Sales Performance Dashboard** created using Python, Pandas, NumPy, and Matplotlib.
