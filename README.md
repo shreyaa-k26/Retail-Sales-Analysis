@@ -78,7 +78,7 @@ Retail-Sales-Analysis/
 ├── Screenshots/
 │
 └── README.md
-
+```
 ## 🗄️ Database Tables
 
 The project uses five relational tables:
